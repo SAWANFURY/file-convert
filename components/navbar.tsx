@@ -30,7 +30,7 @@ export default function Navbar({ }): any {
             </div>
             <div className="items-center hidden gap-2 md:flex">
                 <ModeToggle />
-                <Link href="https://github.com/SAWANFURY">
+                <Link href="https://github.com/SAWANFURY/file-convert.git">
                     <Button
                         variant="default"
                         className="items-center hidden gap-2 bg-orange-600 rounded-full w-fit md:flex"
