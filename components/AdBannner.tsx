@@ -17,7 +17,7 @@ export default function AdBanner() {
       className="adsbygoogle"
       style={{ display: "block" }}
       data-ad-client="ca-pub-9427999005237654"
-      data-ad-slot="YOUR_SLOT_ID" // 🔁 Replace this with your Ad Unit slot ID
+      data-ad-slot="9427999005237654" // 🔁 Replace this with your Ad Unit slot ID
       data-ad-format="auto"
       data-full-width-responsive="true"
     />
