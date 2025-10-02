@@ -1,6 +1,4 @@
-// imports
 import Dropzone from '@/components/dropzone';
-import AdBanner from "@/components/AdBanner";
 
 export default function Home() {
   return (
@@ -20,15 +18,3 @@ export default function Home() {
       </div>
   );
 }
-
-
-
-export default function Home() {
-  return (
-    <div className="space-y-16 pb-8">
-      {/* Your existing content */}
-      <AdBanner /> {/* 🔁 This is where the ad appears */}
-    </div>
-  );
-}
-
